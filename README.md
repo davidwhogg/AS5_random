@@ -2,7 +2,7 @@
 Short ideas for the After Sloan 5 Blue Skies process
 
 ## Instructions
-Add a bullet point to the list of ideas below, and *add your name* to the author list.
+Fork this repository, add a bullet point to the list of ideas below, and *add your name* to the author list, and generate a pull request.
 If you add an idea, you must add your name, and *vice versa*.
 
 ## Style notes

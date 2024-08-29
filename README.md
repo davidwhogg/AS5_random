@@ -1,5 +1,5 @@
-# AS5_random
-Short ideas for the After Sloan 5 Blue Skies process
+# AS5 MOCASI
+Maximizing Observable Science with ARC & Carnegie Instruments
 
 ## Instructions
 Fork this repository, add a bullet point to the list of ideas below, and *add your name* to the author list, and generate a pull request.
@@ -9,8 +9,25 @@ If you add an idea, you must add your name, and *vice versa*.
 Keep it brief, but specific. Boldface a phrase or sentence that serves as the "title" for your idea.
 
 ## Authors
-- **David W. Hogg** (Flatiron)
-- **Andy Casey** (Monash)
+- **Anne-Marie Weijmans** (Univ. of St Andrews)
+- **Joel Brownstein** (Univ. of Utah)
+- **Brian Cherinka** (STScI)
+- **José Sánchez-Gallego** (Univ. of Washington)
+- **Scott Anderson** (Univ. of Washington)
+- **Rachael Beaton** (STScI)
+- **W. Niell Brandt** (Pennsylvania State Univ.)
+- **Niall Deacon** (MPIA)
+- **John Donor** (TCU)
+- **Kate Grier** (U. Wisconsin-Madison)
+- **Britt Lundgren** (UNCA)
+- **Karen Masters** (Haverford College)
+- **Ilija Medan** (Vanderbilt Univ.)
+- **Sean Morrison** (Univ. of Illinois Urbana-Champaign)
+- **David Nidever** (Montana State Univ.)
+- **Jordan Raddick** (JHU)
+- **Manuchehr Taghizadeh-Popp** (JHU)
+- **Ani Thakar** (JHU)
+- **Rita Tojeiro** (Univ. of St Andrews)
 - *[ADD YOUR NAME HERE]*
 
 ## Ideas

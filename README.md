@@ -1,4 +1,4 @@
-# AS5 MOCASI
+# AS5 MOSACI
 Maximizing Observable Science with ARC & Carnegie Instruments
 
 ## Instructions

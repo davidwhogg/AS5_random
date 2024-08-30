@@ -13,6 +13,7 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 - **Andy Casey** (Monash)
 - **Ilija Medan** (Vanderbilt Univ.)
 - **Zach Way** (Georgia State Univ.)
+- **Carie Filion** (Flatiron)
 - *[ADD YOUR NAME HERE]*
 
 ## Ideas
@@ -28,4 +29,6 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 - **Narrow-band photometry yields abundance indicators for stellar litmus tests.** There are stellar astrophysics questions where competing physical explanations might be differentiated by the measurement of a single absorption line. For example, is this star lithium-rich? Is there also high berylium, or high chromospheric activity in the helium lines? Is the lead abundance in this star very high (indicating one nucleosynthetic process), or very low (indicating the other)? With good models of stellar spectra, an extremely narrow-band photometric filter can be sufficient to perform these litmus tests for large numbers of stars, where high-resolution spectroscopy would otherwise be too expensive. *&mdash; Casey*
 
 - **Bridging the gap between low- and high-resolution spectroscopy for low-luminosity stars.** Low-luminosity stars are ubiquitous across the sky and are observed in large numbers in surveys like Gaia. Notably in Gaia DR3, a large number of these stars have low-resolution Gaia XP spectra. In SDSS however, 99% of APOGEE spectra are of targets with M<sub>G</sub> < 10.5 mag, meaning the vast majority of these low-luminosity objects haven't been systematically targeted in higher resolution spectroscopic surveys. We propose to make these targets a high priority in a future iteration of SDSS. This would require the creation of a new APOGEE observing mode with extended exposure times that achieve sufficient signal-to-noise for these fainter objects. Specifically, APOGEE fibers could be parked on low-luminosity (and other faint) objects for long exposure times, while BOSS fibers are reconfigured at the typical 15 minute exposure time cadence. This would be the first time a large number of these low-luminosity objects are systematically observed with high resolution spectroscopy, which would deepen our understanding of low-mass stars and expand our overlap with other surveys. *&mdash; Ilija Medan and Zach Way*
+
+- **LVM in the North for M31 and Friends** LVM is doing incredible work in the Southern hemisphere; why not add a second LVM and extend the footprint to include the Northern hemisphere, too? In addition to the Milky Way science that LVM can do in the North, it would also be able to provide exquisite observations of M31 and M33. LVM North data for the disks and haloes of M31 and M33 (and the bridge between them!) would allow us to create unique maps of the kinematics and chemistry of our nearest spiral galaxy neighbors, ultimately better contextualizing our own Galaxy. *&mdash; Filion*
   

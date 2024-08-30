@@ -9,25 +9,7 @@ If you add an idea, you must add your name, and *vice versa*.
 Keep it brief, but specific. Boldface a phrase or sentence that serves as the "title" for your idea.
 
 ## Authors
-- **Anne-Marie Weijmans** (Univ. of St Andrews)
 - **Joel Brownstein** (Univ. of Utah)
-- **Brian Cherinka** (STScI)
-- **José Sánchez-Gallego** (Univ. of Washington)
-- **Scott Anderson** (Univ. of Washington)
-- **Rachael Beaton** (STScI)
-- **W. Niell Brandt** (Pennsylvania State Univ.)
-- **Niall Deacon** (MPIA)
-- **John Donor** (TCU)
-- **Kate Grier** (U. Wisconsin-Madison)
-- **Britt Lundgren** (UNCA)
-- **Karen Masters** (Haverford College)
-- **Ilija Medan** (Vanderbilt Univ.)
-- **Sean Morrison** (Univ. of Illinois Urbana-Champaign)
-- **David Nidever** (Montana State Univ.)
-- **Jordan Raddick** (JHU)
-- **Manuchehr Taghizadeh-Popp** (JHU)
-- **Ani Thakar** (JHU)
-- **Rita Tojeiro** (Univ. of St Andrews)
 - *[ADD YOUR NAME HERE]*
 
 ## Ideas
@@ -42,3 +24,4 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 
 - **Narrow-band photometry yields abundance indicators for stellar litmus tests.** There are stellar astrophysics questions where competing physical explanations might be differentiated by the measurement of a single absorption line. For example, is this star lithium-rich? Is there also high berylium, or high chromospheric activity in the helium lines? Is the lead abundance in this star very high (indicating one nucleosynthetic process), or very low (indicating the other)? With good models of stellar spectra, an extremely narrow-band photometric filter can be sufficient to perform these litmus tests for large numbers of stars, where high-resolution spectroscopy would otherwise be too expensive. *&mdash; Casey*
   
+- ** An optical comprehensive scan of the sky for signatures of strong galaxy-galaxy gravitational lenses.**  In the AS5 era, the availability of advanced instruments for followup confirmation, including DESI and LSST, make the SDSS BOSS spectograph at 0.3 < z < 1.0, and MaNGA IFU instrument (z < 0.3) ideal tools to scan the sky for multiple redshifts in the same line-of-sight, which has provided the most successful method of detecting galaxy-galaxy gravitational lenses (e.g. SLACS and SWELLS from SDSS-II, BELLS from SDSS-III, and SILO for SDSS-IV with CASIGLO providing machine learning deep-learning neural network).  The extension of the search for strong gravitational lenses into the FPS era for AS5 would allow multiple visits, or long exposure times, in order to generate sufficient S/N to better resolve the emission-lines used by the detection algorithms that have been steadily improved since the original Burles and Bolton code.  The scientific value of a comprehensive scan of the sky for gravitational lenses including followup imaging to allow lens models is extremely valuable, because gravitational lenses provide a direct probe into the effect of dark matter at the galaxy's Einstein radius, in principle allowing the mathematical dissection into luminous and dark components.  The opportunity to create a collaboration of many non-SDSS folks from the gravitational lensing community could also provide individual "slots" for the AS5 budget, if such a proposal were to be made attractive to faculty and postdocs that strongly depend on this type of astronomical targets, with significant research impacting following ~ 4 years of observing time.  *&mdash; Brownstein*

@@ -15,8 +15,8 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 - **David W. Hogg** (Flatiron Institute)
 - **Ilija Medan** (Vanderbilt University)
 - **Moire Prescott** (New Mexico State University)
-- **Zach Way** (Georgia State University)
 - **Andrew Saydjari** (Princeton)
+- **Zach Way** (Georgia State University)
 - *[ADD YOUR NAME HERE]*
 
 ## Ideas

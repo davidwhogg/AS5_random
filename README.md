@@ -11,15 +11,15 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 ## Authors
 - **Joel Brownstein** (University of Utah)
 - **Andy Casey** (Monash University)
+- **Jamey Eriksen** (Apache Point Observatory)
 - **Carrie Filion** (Flatiron Institute)
 - **David W. Hogg** (Flatiron Institute)
 - **Ilija Medan** (Vanderbilt University)
-- **Moire Prescott** (New Mexico State University)
-- **Andrew Saydjari** (Princeton)
-- **Zach Way** (Georgia State University)
-- **José Sánchez-Gallego** (University of Washington)
 - **Sean Morrison** (University of Illinois Urbana-Champaign)
-- **Jamey Eriksen** (Apache Point Observatory)
+- **Moire Prescott** (New Mexico State University)
+- **José Sánchez-Gallego** (University of Washington)
+- **Andrew Saydjari** (Princeton University)
+- **Zach Way** (Georgia State University)
 - *[ADD YOUR NAME HERE]*
 
 ## Ideas

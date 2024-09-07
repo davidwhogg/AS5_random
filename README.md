@@ -10,6 +10,7 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 
 ## Authors:
 - **Joel Brownstein** (University of Utah)
+- **Joe Burchett** (New Mexico State University)
 - **Andy Casey** (Monash University)
 - **Jamey Eriksen** (Apache Point Observatory)
 - **Carrie Filion** (Flatiron Institute)
@@ -20,7 +21,6 @@ Keep it brief, but specific. Boldface a phrase or sentence that serves as the "t
 - **José Sánchez-Gallego** (University of Washington)
 - **Andrew Saydjari** (Princeton University)
 - **Zach Way** (Georgia State University)
-- **Joe Burchett** (New Mexico State University)
 
 ## Ideas:
 
